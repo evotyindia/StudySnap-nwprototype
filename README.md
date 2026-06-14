@@ -243,7 +243,7 @@ StudySnap/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/studysnap.git
+   git clone https://github.com/evotyindia/StudySnap-nwprototyp.git
    cd studysnap
    ```
 
@@ -255,19 +255,6 @@ StudySnap/
    xdg-open index.html        # Linux
    ```
 
-3. **Or use a local server** (recommended for best experience)
-   ```bash
-   # Using Python
-   python -m http.server 8000
-
-   # Using Node.js
-   npx serve .
-
-   # Using PHP
-   php -S localhost:8000
-   ```
-
-4. **Navigate** to `http://localhost:8000` in your browser
 
 > [!IMPORTANT]
 > The prototype loads external resources (fonts, icons, Chart.js) via CDN. Ensure you have an **active internet connection** for the best experience.
